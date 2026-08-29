@@ -1,0 +1,10 @@
+{
+  "description": "Easily create and manage buffet invitations for events, allowing hosts to customize details and guests to RSVP seamlessly, enhancing event planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
